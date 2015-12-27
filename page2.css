@@ -1,0 +1,16 @@
+p.one{
+	overflow: hidden;
+}
+body{
+	text-align: center;
+	font-style: Georgia;
+	color: #ffffff;
+	font-size: 25pt;
+}
+
+html{
+	background:url(myappartment.jpg
+		);
+	height: 100%;
+	width: 100%;
+}
